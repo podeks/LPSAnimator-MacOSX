@@ -12,3 +12,5 @@ type the following two commands:
 export PATH=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:$PATH
 
 java -jar "LPSAnimator.jar"
+
+The first command switches the JRE for the duration of the session, after which the default JRE is restored.
