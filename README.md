@@ -1,4 +1,5 @@
-Click on 'Download ZIP' to download this application.  After unzipping the dist folder, place it your Applications folder (or anywhere you like). 
+Click on 'Download ZIP' to download this application.  After unzipping the repository folder, move the sub-Folder LPSAnimator
+into your Applications folder (or anywhere you like).  You can then discard the zip file and the repository folder.
 
 To run this application, an older version of the Java Runtime Environment is required, namely version 1.6.  This can be downloaded here: http://support.apple.com/kb/DL1572
 
