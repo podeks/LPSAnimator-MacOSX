@@ -1,3 +1,4 @@
+# LPSAnimator-MacOSX
 Click on 'Download ZIP' to download this application.  After unzipping the repository folder LPSAnimator-MacOSX-master, open it and move the folder named 'LPSAnimator' into your Applications folder (or anywhere else you like).  The zip file and repository folder can then be discarded.
 
 To run this application, an older version of the Java Runtime Environment is required, namely version 1.6.  This can be downloaded here: http://support.apple.com/kb/DL1572
