@@ -14,7 +14,6 @@ java -jar "LPSAnimator.jar"
 The first command switches the JRE for the duration of the session, after which the default JRE is restored (which is located in Library/Java/JavaVirtualMachines).
 
 #### Screenshots:
-` `|` `
------------------------|-----------------------
 ![image 01](/screenshots/img01.jpg) | ![image 03](/screenshots/img03.jpg)
+------------------------------------|------------------------------------
 ![image 05](/screenshots/img05.jpg) | ![image 06](/screenshots/img06.jpg)
